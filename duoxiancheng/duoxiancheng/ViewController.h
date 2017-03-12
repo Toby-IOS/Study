@@ -10,6 +10,6 @@
 
 @interface ViewController : UIViewController
 
-
+@property (strong, nonatomic) UILabel *name111;
 @end
 
